@@ -363,7 +363,8 @@
      - |20.dz1.1|_ |20.dz1.2-4|_ [**+4**]
      - |20.dz2.1|_ |20.dz2.2|_ |20.dz2.3|_ |20.dz2.5|_ [**+3**]
      - |20.dz3.1|_ [**+4**]
-     -
+     - |20.dz4.1|_ |20.dz4.2-4|_ |20.dz4.5|
+     - |20.dz5|
      -
      -
      - |20.kr1|_ [**+5**]
@@ -715,6 +716,13 @@
 .. |18.dz4.5| replace:: 5
 .. _18.dz4.5: https://gist.github.com/artofmind/7cdb47a1bfd308b7ae6476275bdbcf23
 
+.. |20.dz4.1| replace:: 1
+.. _20.dz4.1: https://github.com/Farakhutdinova/myProject/blob/master/web.py
+.. |20.dz4.2-4| replace:: 2-4
+.. _20.dz4.2-4: https://gist.github.com/Farakhutdinova/2232e66afe45b4b0a47a65197f33aa6e
+.. |20.dz4.5| replace:: 5
+.. _20.dz4.5: https://gist.github.com/Farakhutdinova/213347d2b4fb87e57782537f8faa4a4a#file-5_1
+
 .. Домашняя работа #5
 
 .. |5.dz5| replace:: 1
@@ -737,6 +745,9 @@
 
 .. |18.dz5| replace:: 1
 .. _18.dz5: https://github.com/artofmind/myproject/blob/master/PyramidApp.py
+
+.. |20.dz4| replace:: 1
+.. _20.dz5: https://gist.github.com/Farakhutdinova/645788e1d75d5d7c3d605313168998b5
 
 .. Курсовая работа
 
